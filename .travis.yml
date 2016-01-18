@@ -2,5 +2,6 @@ language:cpp
 
 install:make get-deps
 
-make clean
-make all
+script:
+- make clean
+- make all
