@@ -1,4 +1,6 @@
 language:cpp
 
-install:make
+install:make get-deps
+
+make clean
 make all
