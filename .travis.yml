@@ -2,4 +2,4 @@ language:cpp
 
 install:make get-deps
 
-script:make
+script:make all
