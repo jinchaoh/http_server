@@ -1,6 +1,8 @@
 language:
   - cpp
-
+  
+  
 script:
+  - rm -rf *.o
   - make clean
   - make all
