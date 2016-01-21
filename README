@@ -1,4 +1,13 @@
+# http_server
 一个简单的http服务器，采用libevent网络库
 
 [![Build Status](https://travis-ci.org/jinchaoh/http_server.svg?branch=master)](https://travis-ci.org/jinchaoh/http_server)
 [![Gitter](https://badges.gitter.im/jinchaoh/http_server.svg)](https://gitter.im/jinchaoh/http_server?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+[![Gitter](https://badges.gitter.im/jinchaoh/Scallop.svg)](https://gitter.im/jinchaoh/Scallop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+[![Build Status](https://travis-ci.org/jinchaoh/Scallop.svg?branch=master)](https://travis-ci.org/jinchaoh/Scallop)
+
+
+A simple web server
+
